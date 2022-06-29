@@ -1,0 +1,62 @@
+.blue{
+    background-color: #758AF8;
+    color:white;
+    padding: 2% 15%;
+}
+
+.center{
+    text-align: center;
+    padding-top: 15%;
+}
+
+.titulo-home{
+    text-align: left;
+}
+
+.fintech-destaque{
+    color:#758AF8;
+}
+
+.corfintech{
+    color:#758AF8;
+    font-size: 300%;
+    display: inline-block;
+    margin-bottom: 20%;
+}
+
+.ajuste-porco{
+    width: 5rem;
+    padding-bottom: 6%;
+}
+
+.input-user {
+    border-radius: 2%;
+    padding: 3% 10%;
+    margin: 1%;
+    border: 2px solid #758AF8;
+    background-color: #F1F1F1;
+    color: black;
+}
+
+.box-cadastro{
+    font-size: small;
+    padding: 2%;
+    color: #758AF8;
+    margin-bottom: 10%;
+}
+
+.rede-social{
+    display: inline-block;
+    text-align: left;
+    font-size: small;
+}
+
+.img-social {
+    width: 1.5rem;
+}
+
+.fgl {
+    border: 2px solid #758AF8;
+    margin: 2% 25%;
+    background-color: #F1F1F1;
+}
